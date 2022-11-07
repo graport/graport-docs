@@ -75,11 +75,11 @@
 当社のGraportサービスでは、利用者のアクセス状況を把握し、本ウェブサイトを改善するためにGoogle社のサービスであるGoogleアナリティクスを利用しています。Googleアナリティクスのクッキーをもとにして取得されたデータは、Google社により同社のプライバシーポリシーに基づいて管理されます。利用者は当サービスを利用することで、上記方法および目的においてGoogleとサイト管理者が行うデータ処理に対して、許可を与えたものとみなします。
 
 Googleアナリティクスの利用規約に関する説明についてはGoogleアナリティクスのサイトを、Google社のプライバシーポリシーに関する説明については同社のサイトをご覧下さい。
-- Googleアナリティクス利用規約 https://www.google.com/analytics/terms/jp.html
-- Googleプライバシーポリシー https://policies.google.com/privacy?hl=ja
+- Googleアナリティクス利用規約 [https://www.google.com/analytics/terms/jp.html](https://www.google.com/analytics/terms/jp.html)
+- Googleプライバシーポリシー [https://policies.google.com/privacy?hl=ja](https://policies.google.com/privacy?hl=ja)
 
 また、Google による情報収集を無効化したい場合は、Google社が提供する「Google アナリティクス オプトアウト アドオン」からオプトアウトの設定をすることで実施可能です。
-- Googleアナリティクス オプトアウト アドオン https://tools.google.com/dlpage/gaoptout?hl=ja
+- Googleアナリティクス オプトアウト アドオン [https://tools.google.com/dlpage/gaoptout?hl=ja](https://tools.google.com/dlpage/gaoptout?hl=ja)
 
 ## 第11条 お問い合わせ
 株式会社タクティカート  
